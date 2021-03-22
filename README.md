@@ -14,3 +14,6 @@
  item3
  * item 3a
  * item 3b
+
+![github logo](/images/logo.png)
+format: ![alt text](url)

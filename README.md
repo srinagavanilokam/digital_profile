@@ -31,47 +31,34 @@ github supports emoji!
 :+1: :sparkles: :camel: :tada: :
 :rocket: :metal: :octocat:
 
-Johnny Coder
+Sri Naga Vani Lokam
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+1 MyAddress                        srinagavanilokam@gmail.com
+MyTown 1000                          Guntur
+MyCountry                           India
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2019-2023 (expected)
+:   **b.tech, Computer Science and engineering**; RVR&JC College Of Engineering(Guntur)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2017-2019
+:   **Intermediate, MPC**; Viveka Junior College
+    Tenali (Tenali)
 
     *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------

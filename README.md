@@ -1,0 +1,16 @@
+# digital_profile
+
+# this is an <h1> tag
+## this is an <he> tag
+###### this is an <h6> tag
+
+*item1
+*item2
+ * item 2a
+ * item 2b
+ 
+ item1
+ item2
+ item3
+ * item 3a
+ * item 3b
